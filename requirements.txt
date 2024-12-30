@@ -1,0 +1,6 @@
+pandas
+dvc
+imblearn
+scikit-learn
+nltk
+
