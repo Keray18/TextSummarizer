@@ -4,4 +4,5 @@ imblearn
 scikit-learn
 nltk
 flask
+gunicorn
 
