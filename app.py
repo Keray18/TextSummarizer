@@ -12,6 +12,9 @@ import string
 import os
 
 
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
 
 app = Flask(__name__)
 
