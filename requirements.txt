@@ -3,4 +3,5 @@ dvc
 imblearn
 scikit-learn
 nltk
+flask
 
